@@ -4,7 +4,7 @@ This is my first project using ESP32. The goal was to design and build a telemet
 
 The system collects environmental and positional data during flight, stores it on an SD card, and periodically sends GPS location via SMS to enable recovery after landing.
 
-The payload was launched on **17 March 2025** and recorded a complete flight — from the ground up to roughly **27 km** altitude, over a ground track of about **458 km**.
+The payload was launched on **17 March 2025** and recorded a complete flight — from the ground up to roughly **27 km** altitude.
 
 ![Flight profile](docs/flight_profile_2025-03-17.png)
 
